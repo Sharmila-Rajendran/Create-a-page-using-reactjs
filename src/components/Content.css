@@ -1,0 +1,64 @@
+.cont{
+    background-color: rgb(220, 218, 218);
+    padding: 20px;
+}
+
+table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    width: 25%;
+}
+
+table{
+    background-color: white;
+    margin: 50px 550px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color:navy;
+}
+
+form{
+    background-color: white;
+    width: 50%;
+    margin: 20px 350px;
+    border: 1px solid transparent;
+    box-shadow: 3px 3px 3px 3px grey;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+    color: brown;
+}
+
+label{
+    display: inline-block;
+    padding-left: 10px;
+}
+
+input{
+    margin-left: 10px;
+    padding: 10px;
+    width: 70%;
+}
+
+.butt{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.butt button{
+    width: 100px;
+    padding: 10px;
+    background-color: maroon;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    
+}
+

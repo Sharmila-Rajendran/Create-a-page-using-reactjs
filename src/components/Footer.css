@@ -1,0 +1,30 @@
+.foot{
+    background-color: brown;
+    text-align: center;
+    padding: 10px;
+}
+
+.menu{
+    display: flex;
+}
+
+.menu ul{
+    margin: 20px;
+    padding:10px 60px;
+}
+
+.menu h3{
+    color: white;
+    text-align: left;
+}
+
+.menu li{
+    display: block;
+    list-style-type:none ;
+    color: yellow;
+    text-align: left;
+}
+
+.foot p{
+    color: antiquewhite;
+}
